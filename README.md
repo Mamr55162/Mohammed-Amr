@@ -93,18 +93,11 @@ More projects coming soon.
 
 ---
 
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Amr&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Amr&show_icons=true)
-
----
 
 ## Connect With Me
 
 - LinkedIn: www.linkedin.com/in/mohammed-amr-697a04368
 - GitHub: https://github.com/Mohammed-Amr
-- mamr55162@gmail.com
+- Gmail: mamr55162@gmail.com
 
 ---
